@@ -1,0 +1,60 @@
+{
+  "emails": {
+    "all": [
+      "sara_k_88@yahoo.com",
+      "s.kamau@alueducation.com",
+      "dev.alex99@outlook.com",
+      "fatima_b@hotmail.com",
+      "f.bello@alueducation.com",
+      "david.o_tech@gmail.com",
+      "d.okello@alumni.alueducation.com",
+      "chloe.smith@icloud.com",
+      "emmanuel_n@yahoo.com",
+      "e.ndayishimiye@alumni.alueducation.com",
+      "g.wambui@si.alueducation.com",
+      "kofi.annani@hotmail.com",
+      "k.annan@alumni.alueducation.com",
+      "amina_diop@outlook.com",
+      "a.diop@alueducation.com"
+    ],
+    "aluOfficial": [
+      "s.kamau@alueducation.com",
+      "f.bello@alueducation.com",
+      "a.diop@alueducation.com"
+    ],
+    "aluAlumni": [
+      "d.okello@alumni.alueducation.com",
+      "e.ndayishimiye@alumni.alueducation.com",
+      "k.annan@alumni.alueducation.com"
+    ],
+    "aluSi": [
+      "g.wambui@si.alueducation.com"
+    ]
+  },
+  "creditCards": [
+    "**** **** **** 0051",
+    "**** **** **** 8900",
+    "**** **** **** 1111",
+    "**** **** **** 0042"
+  ],
+  "phoneNumbers": [
+    "+250 788 111 222",
+    "+254 (712)-345-678",
+    "+233 244 567 890",
+    "+234 803 123 4567",
+    "+256 772 987 654",
+    "+27 82 123 4567",
+    "+250 783 456 789",
+    "+254 722 000 111",
+    "+233 208 999 888",
+    "+221 77 123 4567"
+  ],
+  "urls": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1C1zdkolp5lzwqkBvx5NZeoNZ7iAQ-iWy_izDxtlaw&s=10",
+    "https://www.rottentomatoes.com/"
+  ],
+  "hostileInputDetected": [
+    "<script>alert('pwned')</script>",
+    "'; DROP "
+  ]
+}

@@ -1,0 +1,41 @@
+[2026-01-12 08:15] Ticket  opened by brian.m23@@gmail.com
+Customer says: "double billing on my card 4111-2233-4455-66, text me on +250 788 111 222"
+Agent note: verified via alumni portal, user is b.mufasa@@alumni.alueducation.com
+
+[2026-01-18 23:40] Ticket #1105 opened by sara_k_88@yahoo.com
+Customer says: "charged twice for my subscription on card 5200 44 3322, please fix! call +254 (712)-345-678"
+Agent note: authenticated through student database, account is s.kamau@alueducation.com
+
+[2026-01-25 16:05] Ticket #1230 opened by dev.alex99@outlook.com
+Customer says: "duplicate charge shown on card -1234 5678-9010, I want my money back. phone +233 244 567 890"
+Agent note: verified via alumni directory, user is <script>alert('pwned')</script>
+
+[2026-02-02 09:22] Ticket #1389 opened by fatima_b@hotmail.com
+Customer says: "payment went through two times on card 3782 8224 6310 0051, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1C1zdkolp5lzwqkBvx5NZeoNZ7iAQ-iWy_izDxtlaw&s=10. contact me at +234 803 123 4567"
+Agent note: cross-referenced via student portal, user is f.bello@alueducation.com
+
+[2026-02-10 14:50] Ticket opened by david.o_tech@gmail.com
+Customer says: "erroneous extra payment deducted from card _0111_2222_3333, please process refund! reach me on +256 772 987 654"
+Agent note: confirmed through alumni database, account is d.okello@alumni.alueducation.com
+
+[2026-02-14 10:05] Ticket #1502 opened by chloe.smith@icloud.com
+Customer says: "card 4916 2200 11 4433 was billed twice today, need quick assistance! call +27 82 123 4567"
+Agent note: verified via student roster, user is c.smith@@alumni.alueducation.com
+
+[2026-02-20 18:30] Ticket #1677 opened by emmanuel_n@yahoo.com
+Customer says: "system charged me twice on card 5412 7512 3412 8900, reverse the extra charge! call +250 783 456 789"
+Agent note: authenticated via alumni network, user is e.ndayishimiye@alumni.alueducation.com
+
+[2026-02-28 12:15] Ticket #1790 opened by admin'; DROP TABLE users;--
+Customer says: "unwanted duplicate payment on card 4222555588881111, pls refund asap! phone +254 722 000 111"
+Agent note: verified via student system, account is g.wambui@si.alueducation.com
+
+[2026-03-03 07:45] Ticket #1844 opened by kofi.annani@hotmail.com
+Customer says: "charged two times on my card 3714-4963-2106-0042, refund please!! call +233 208 999 888"
+Agent note: checked via alumni portal, user is k.annan@alumni.alueducation.com
+
+opened by amina_diop@outlook.com
+Customer says: "double transaction on card 45-56 7788 9900 1122, need a full refund! call me at +221 77 123 4567"
+Agent note: confirmed in student registry, user is a.diop@alueducation.com
+
+https://www.rottentomatoes.com/
